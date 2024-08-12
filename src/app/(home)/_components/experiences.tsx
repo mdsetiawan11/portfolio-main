@@ -1,5 +1,5 @@
-import { ExperienceCard } from "../custom/experience-card";
-import { TracingBeam } from "./tracing-beam";
+import { ExperienceCard } from "@/components/custom/experience-card";
+import { TracingBeam } from "@/components/ui/tracing-beam";
 import experiences from "@/shared/lib/experiences.json";
 
 export default function Experiences() {

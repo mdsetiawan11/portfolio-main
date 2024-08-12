@@ -4,8 +4,8 @@ import { Hero } from "./_components/hero";
 import { Navbar } from "./_components/navbar";
 
 import { Skills } from "./_components/skills";
-import Experiences from "@/components/ui/experiences";
 import Projects from "@/components/projects";
+import Experiences from "./_components/experiences";
 
 export default function Home() {
   return (
@@ -17,7 +17,7 @@ export default function Home() {
         </div>
         <div className="absolute -bottom-5 left-0 h-10 w-full bg-gradient-to-t from-[#09090B] xl:bottom-0 xl:h-32"></div>
       </div>
-      <div className="mx-auto mt-20 max-w-7xl p-5">
+      <div className="mx-auto mt-20 max-w-7xl">
         <Separator />
         <Experiences />
         <Separator />

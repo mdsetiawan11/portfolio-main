@@ -8,7 +8,7 @@ export default function Projects() {
       className="flex flex-col items-center justify-center gap-4 py-16 sm:py-32"
     >
       <h2 className="scroll-m-20 text-3xl font-extrabold tracking-tight lg:text-4xl">
-        Projects Done
+        Projects
       </h2>
       <div className="flex flex-row flex-wrap justify-evenly gap-x-4">
         {projects.map((projects, index) => (
