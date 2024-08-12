@@ -52,7 +52,7 @@ export const Projects = () => (
     <Title
       tag="h3"
       text="Projects 📦"
-      className="flex rotate-6 flex-col items-center justify-center"
+      className="flex flex-col items-center justify-center pt-5"
     />
     <div className="grid grid-cols-1 gap-5 pt-20 md:grid-cols-2">
       {PROJECTS.map((project, index) => (

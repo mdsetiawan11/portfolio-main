@@ -2,9 +2,10 @@ import { Separator } from "@/components/ui/separator";
 import { Footer } from "./_components/footer";
 import { Hero } from "./_components/hero";
 import { Navbar } from "./_components/navbar";
-import { Projects } from "./_components/projects";
+
 import { Skills } from "./_components/skills";
 import Experiences from "@/components/ui/experiences";
+import Projects from "@/components/projects";
 
 export default function Home() {
   return (

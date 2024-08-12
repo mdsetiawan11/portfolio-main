@@ -33,7 +33,7 @@ export const Hero = () => {
       <div className="space-y-10 text-center lg:text-left">
         <h2 className="text-4xl font-bold lg:text-7xl">Nice to meet you! 👋</h2>
         <TextGenerateEffect
-          words={`Im a software developer passionate about building a web and mobile application.`}
+          words={`I'm a software developer passionate about building web and mobile applications..`}
         />
 
         <Link href="mailto:fzpromds@gmail.com" className="group inline-block">
