@@ -54,7 +54,7 @@ export const Hero = () => {
 
               <div className="mb-4 flex items-end justify-center gap-1">
                 <p className="relative z-50 text-xl font-bold text-white">
-                  Currently, i'm @
+                  Currently, i&apos;m @
                 </p>
                 <Link href="https://www.bpk.go.id/">
                   <span className="text-2xl font-bold text-white transition-colors hover:text-yellow-500">
@@ -64,8 +64,8 @@ export const Hero = () => {
               </div>
 
               <p className="relative z-50 mb-4 text-base font-normal text-slate-500">
-                The state institution within Indonesia's constitutional system
-                that has the authority to examine the management and
+                The state institution within Indonesia&apos;s constitutional
+                system that has the authority to examine the management and
                 accountability of state finances.
               </p>
 
