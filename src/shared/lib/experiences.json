@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Software Developer",
+    "company": "Badan Pemeriksa Keuangan",
+    "date": "March 2024 - Present",
+    "description": "As a Government Employee under a contractual agreement, working in the Information Systems Development Subdivision for auditing, one is part of a team responsible for developing and maintaining systems for auditing purposes. To fulfill these responsibilities, a range of technical skills, including .NET WEB API, .NET WEB MVC, JQuery, Dart, and Flutter, are utilized to create and optimize applications and services that support the audit processes.",
+    "skills": [
+      "C#",
+      ".NET7",
+      "Javascript",
+      "Dart",
+      "Flutter",
+      "Full Stack Development"
+    ]
+  },
+  {
+    "title": "Customer Services",
+    "company": "BPJS Kesehatan",
+    "date": "Jan 2020 - Desember 2023 · 4 yr",
+    "description": "Providing administrative services to participants, processing administrative data, responding to information requests and handling complaints, as well as developing several innovative applications.",
+    "skills": [
+      "Customer Services",
+      "Data Processing",
+      "Full Stack Development",
+      "Rest-Api",
+      "Flutter"
+    ]
+  },
+  {
+    "title": "Retail Surveyor",
+    "company": "PT. Kadence Indonesia",
+    "date": "August 2017 - February 2018 · 6 mos",
+    "description": "Conducting a survey on the sales of SIM cards, phone credits, and internet packages from telecommunications providers and presenting the results in the form of a chart.",
+    "skills": ["MS. Excel", "Data Processing"]
+  }
+]
