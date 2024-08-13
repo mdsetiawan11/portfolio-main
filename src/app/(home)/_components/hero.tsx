@@ -50,6 +50,7 @@ export const Hero = () => {
                 <p className="relative z-50 text-xl font-bold text-white">
                   Currently, i&apos;m @
                 </p>
+
                 <Link href="https://www.bpk.go.id/">
                   <span className="text-2xl font-bold text-white transition-colors hover:text-yellow-500">
                     bpk-ri
