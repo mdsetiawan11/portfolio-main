@@ -1,79 +1,39 @@
-import React from "react";
-import {
-  SiAstro,
-  SiGo,
-  SiNextdotjs,
-  SiReact,
-  SiReactquery,
-  SiTailwindcss,
-  SiTurborepo,
-  SiTypescript,
-} from "react-icons/si";
-import Link from "next/link";
+import { ProjectCard3d } from "@/components/custom/project-card-3d";
+import { Reveal } from "@/components/custom/reveal";
+import projects from "@/shared/lib/projects.json";
 
-import { DirectionAwareHover } from "@/components/direction-aware-hover";
-import { cn } from "@/shared/lib/utils";
-
-import { Title } from "./title";
-
-const PROJECTS = [
-  {
-    title: "Streamdal (Landing)",
-    tech: [SiAstro, SiTailwindcss, SiReact],
-    link: "https://streamdal.com",
-    cover: "/images/streamdal.png",
-    background: "bg-purple-500",
-  },
-  {
-    title: "OneTraf",
-    tech: [
-      SiTypescript,
-      SiNextdotjs,
-      SiTailwindcss,
-      SiReactquery,
-      SiTurborepo,
-      SiGo,
-    ],
-    link: "https://onetraf.com",
-    cover: "/images/onetraf.png",
-    background: "bg-sky-600",
-  },
-  {
-    title: "Supervisord Monitor",
-    tech: [SiTypescript, SiReact, SiTailwindcss, SiReactquery],
-    link: "https://github.com/KoNekoD/supervisord-monitor",
-    cover: "/images/supervisord-monitor.png",
-    background: "bg-neutral-500",
-  },
-] as const;
-
-export const Projects = () => (
-  <section className="p-5 py-10 sm:p-0">
-    <Title
-      tag="h3"
-      text="Projects 📦"
-      className="flex flex-col items-center justify-center pt-5"
-    />
-    <div className="grid grid-cols-1 gap-5 pt-20 md:grid-cols-2">
-      {PROJECTS.map((project, index) => (
-        <Link href={project.link} key={index}>
-          <div className={cn("rounded-md p-3", project.background)}>
-            <DirectionAwareHover
-              imageUrl={project.cover}
-              className="w-full cursor-pointer space-y-5"
-            >
-              <div className="space-y-5 rounded-xl bg-black p-5">
-                <p className="text-2xl font-bold">{project.title}</p>
-                <div className="flex items-center gap-5">
-                  {project.tech.map((Icon, index) => (
-                    <Icon key={index} className="h-8 w-8" />
-                  ))}
-                </div>
-              </div>
-            </DirectionAwareHover>
-          </div>
-        </Link>
-      ))}
-    </div>
-  </section>
-);
+export default function Projects() {
+  return (
+    <section
+      id="projects"
+      className="flex flex-col items-center justify-center gap-4 py-16 sm:py-32"
+    >
+      <h2 className="scroll-m-20 text-3xl font-extrabold tracking-tight lg:text-4xl">
+        Projects
+      </h2>
+      <div className="flex flex-row flex-wrap justify-evenly gap-x-4">
+        {projects.map((projects, index) => (
+          <Reveal
+            key={projects.title}
+            initial={{ opacity: 0, y: -50 }}
+            whileInView={{
+              opacity: 1,
+              y: 0,
+              transition: { duration: 0.4, delay: index / 30 },
+            }}
+          >
+            <ProjectCard3d
+              title={projects.title}
+              type={projects.type}
+              description={projects.description}
+              imageUrl={projects.imageUrl}
+              githubUrl={projects.githubUrl}
+              demoUrl={projects.demoUrl}
+              skills={projects.skills}
+            />
+          </Reveal>
+        ))}
+      </div>
+    </section>
+  );
+}

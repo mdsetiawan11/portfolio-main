@@ -3,17 +3,11 @@ import {
   SiDart,
   SiDotnet,
   SiFlutter,
-  SiJavascript,
   SiJquery,
   SiMicrosoftsqlserver,
-  SiNextdotjs,
-  SiNodedotjs,
-  SiReact,
-  SiTypescript,
 } from "react-icons/si";
 import Link from "next/link";
 
-import { MovingBorderButton } from "@/components/moving-border";
 import { Meteors } from "@/components/meteors";
 
 import { Title } from "./title";

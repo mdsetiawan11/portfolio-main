@@ -4,8 +4,9 @@ import { Hero } from "./_components/hero";
 import { Navbar } from "./_components/navbar";
 
 import { Skills } from "./_components/skills";
-import Projects from "@/components/projects";
+
 import Experiences from "./_components/experiences";
+import Projects from "./_components/projects";
 
 export default function Home() {
   return (
