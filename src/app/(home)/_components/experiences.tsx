@@ -8,7 +8,7 @@ export default function Experiences() {
       id="experiences"
       className="flex flex-col items-start justify-start gap-4 py-16 sm:mx-24 sm:py-32 md:mx-32 lg:mx-64 xl:mx-96"
     >
-      <h2 className="w-full scroll-m-20 text-center text-3xl font-extrabold tracking-tight lg:text-4xl">
+      <h2 className="mb-5 w-full scroll-m-20 text-center text-3xl font-extrabold tracking-tight lg:text-4xl">
         Experiences
       </h2>
       <div className="flex flex-col gap-4 md:hidden">
