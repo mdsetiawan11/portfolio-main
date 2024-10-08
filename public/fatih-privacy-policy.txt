@@ -1,0 +1,21 @@
+Kebijakan Privasi Aplikasi Fatih
+
+Terima kasih telah menggunakan Fatih. Kami sangat menghargai privasi dan keamanan data pribadi Anda. Kebijakan Privasi ini menjelaskan bagaimana kami menangani informasi yang terkait dengan penggunaan aplikasi ini.
+
+1. Pengumpulan Data
+Fatih tidak mengumpulkan atau menyimpan data pribadi Anda di server eksternal. Seluruh data yang dihasilkan melalui aplikasi, seperti catatan solat, progres ibadah, dan statistik lainnya, disimpan secara lokal di perangkat Anda. Kami tidak mengakses atau membagikan informasi tersebut dengan pihak ketiga.
+
+2. Penyimpanan Data
+Semua data yang dihasilkan oleh aplikasi tersimpan sepenuhnya di memori lokal perangkat Anda. Hal ini berarti data Anda aman dan tidak akan dikirim ke server eksternal atau platform pihak ketiga manapun.
+
+3. Penggunaan Lokasi
+Aplikasi Fatih meminta izin untuk mengakses lokasi perangkat Anda hanya untuk tujuan penentuan waktu solat berdasarkan lokasi Anda saat ini. Informasi lokasi ini digunakan secara lokal oleh aplikasi dan tidak disimpan, dibagikan, atau dikirim ke server manapun.
+
+4. Keamanan Data
+Karena data Anda disimpan secara lokal di perangkat, keamanan data Anda sangat bergantung pada pengaturan keamanan perangkat Anda. Kami menyarankan untuk selalu menjaga perangkat Anda dengan kata sandi atau metode keamanan lain untuk mencegah akses yang tidak sah.
+
+5. Hak Pengguna
+Anda memiliki kontrol penuh atas data yang disimpan oleh aplikasi. Anda dapat menghapus data kapan saja dengan menghapus aplikasi dari perangkat Anda, yang secara otomatis akan menghapus semua data yang disimpan secara lokal.
+
+6. Perubahan Kebijakan
+Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Segala perubahan akan diinformasikan melalui aplikasi atau platform resmi kami. Kami mendorong Anda untuk secara berkala meninjau Kebijakan Privasi ini agar tetap mengetahui informasi terbaru.
