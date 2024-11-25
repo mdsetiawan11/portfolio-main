@@ -9,12 +9,14 @@ We may collect the following information:
 Personal Information: Name, email address, and other information you provide when creating an account.
 Financial Data: Income and expense details you record in the app.
 Usage Data: Information about how you use the app, such as session duration and feature usage.
+
 2. How We Use Your Information
 Your information is used to:
 
 Provide and improve the app's functionality.
 Generate financial insights and reports.
 Respond to user support requests.
+
 3. Data Security
 We use industry-standard encryption and security measures to protect your data. However, no method of transmission over the internet or electronic storage is 100% secure, so we cannot guarantee absolute security.
 
@@ -22,35 +24,16 @@ We use industry-standard encryption and security measures to protect your data. 
 SpendWise may use third-party services to enhance app functionality, such as analytics and cloud storage providers. These services may collect data in compliance with their respective privacy policies.
 
 5. Your Rights
-You have the right to access, update, or delete your personal data at any time. To make such a request, please contact us at [Insert Contact Email].
+You have the right to access, update, or delete your personal data at any time.
+
+To delete your user account/profile, you can use the Delete Account feature available within the Profile Page in the application. This action will permanently remove all associated data from our servers.
+
+For further assistance or to make additional requests, please contact us at:
+fzpromds@gmail.com
 
 6. Changes to This Policy
 We may update this Privacy Policy from time to time. Any changes will be posted within the app and will include the effective date.
 
 Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
-fzpromds@gmail.com
-
-Terms of Service
-Effective Date: 22 November 2024
-
-Welcome to SpendWise! By using our app, you agree to the following terms and conditions. Please read them carefully.
-
-1. Use of the App
-SpendWise is provided to help you manage your personal finances. You are responsible for ensuring the accuracy of the data you input and for using the app in compliance with applicable laws.
-
-2. Account Responsibilities
-You are responsible for maintaining the confidentiality of your account information and ensuring that any activities conducted under your account comply with these terms.
-
-3. Limitation of Liability
-SpendWise is not responsible for any financial losses or inaccuracies that may result from your use of the app. The app is provided "as is" without warranties of any kind.
-
-4. Termination
-We reserve the right to suspend or terminate your access to SpendWise if you violate these terms.
-
-5. Changes to the Terms
-We may update these Terms of Service at any time. Updates will be communicated within the app, and continued use of the app signifies your acceptance of the changes.
-
-Contact Us
-For questions about these Terms of Service, please contact us at:
 fzpromds@gmail.com
