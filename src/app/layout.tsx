@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Space_Grotesk as FontSans } from "next/font/google";
+import { Inter as FontSans } from "next/font/google";
 
 import "./globals.css";
 import { cn } from "@/shared/lib/utils";
@@ -10,7 +10,7 @@ const fontSans = FontSans({ subsets: ["latin"], variable: "--font-sans" });
 export const metadata: Metadata = {
   title: "Muhammad Dadang Setiawan - Software Developer",
   authors: {
-    name: "Velenyx",
+    name: "Mdsetiawan",
   },
 
   description:
@@ -19,10 +19,6 @@ export const metadata: Metadata = {
     title: "Muhammad Dadang Setiawan - Software Developer",
     description:
       "I'm a software developer passionate about building a web and mobile application that users love 🏗️",
-    //url: "https://velenyx.tech",
-    //siteName: "Velenyx",
-    //images: "/og.png",
-    //type: "website",
   },
   keywords: [
     "web coding",
@@ -52,8 +48,8 @@ export default function RootLayout({
       >
         <ThemeProvider
           attribute="class"
-          defaultTheme="dark"
-          forcedTheme="dark"
+          defaultTheme="light"
+          forcedTheme="light"
           disableTransitionOnChange
         >
           {children}

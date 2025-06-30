@@ -4,13 +4,18 @@ import React from "react";
 import {
   SiBootstrap,
   SiCodeigniter,
+  SiCsharp,
   SiCss3,
   SiDart,
   SiDotnet,
+  SiFirebase,
   SiFlutter,
   SiHtml5,
   SiMicrosoftsqlserver,
+  SiNextdotjs,
   SiPhp,
+  SiReact,
+  SiTailwindcss,
 } from "react-icons/si";
 
 import { HoverEffect } from "@/components/card-hover-effect";
@@ -18,15 +23,15 @@ import { HoverEffect } from "@/components/card-hover-effect";
 import { Title } from "./title";
 
 const SKILLS = [
-  { text: "HTML5", Icon: SiHtml5 },
-  { text: "PHP", Icon: SiPhp },
-  { text: "CSS", Icon: SiCss3 },
-  { text: "Bootstrap", Icon: SiBootstrap },
-  { text: "Codeigniter", Icon: SiCodeigniter },
-  { text: "Microsoft Sql Server", Icon: SiMicrosoftsqlserver },
+  { text: "React", Icon: SiReact },
+  { text: "NextJs", Icon: SiNextdotjs },
+  { text: "Tailwind", Icon: SiTailwindcss },
+  { text: "C#", Icon: SiCsharp },
   { text: ".NET", Icon: SiDotnet },
+  { text: "Microsoft Sql Server", Icon: SiMicrosoftsqlserver },
   { text: "Dart", Icon: SiDart },
   { text: "Flutter", Icon: SiFlutter },
+  { text: "Firebase", Icon: SiFirebase },
 ];
 
 export const Skills = () => (

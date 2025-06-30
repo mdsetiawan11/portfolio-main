@@ -1,8 +1,23 @@
 [
   {
+    "title": "SpendWise : Expense Tracker",
+    "description": "SpendWise is a smart and easy-to-use finance app that helps you track your income and expenses, manage your budget, and gain insights through clear financial reports. With categorized transactions and intuitive design, SpendWise empowers you to stay in control of your money and build better financial habits.",
+    "type": "Mobile App",
+    "imageUrl": "/images/SpendWise.png",
+    "skills": ["Dart", "Rest-Api", "Flutter", "Firebase"]
+  },
+  {
+    "title": "Fatih : Sholat and Quran",
+    "description": "Fatih is a modern Islamic app designed to support your daily worship through smart prayer reminders, a beautifully organized Quran reader, and insightful prayer statistics. Stay motivated with daily worship challenges and track your spiritual journey effortlessly. Fatih helps you stay connected to your faith, wherever you are.",
+    "type": "Mobile App",
+    "imageUrl": "/images/Fatih.png",
+    "skills": ["Dart", "Rest-Api", "Flutter"],
+    "demoUrl": "https://play.google.com/store/apps/details?id=mdsdev.id.quran_app"
+  },
+  {
     "title": "JKN Face Identity",
     "description": "Facial Biometrics as JKN Identity Concept. The application is built using Dart programming language and Flutter framework for the front end, Google ML Kit and TensorFlow for face recognition algorithms, and PHP and CodeIgniter 3 REST API for the backend.",
-    "type": "Idea Project",
+    "type": "Mobile App",
     "imageUrl": "/images/JKN Face Identity.png",
     "githubUrl": "https://github.com/mdsetiawan11/face_identity_jkn",
     "demoUrl": "",
@@ -11,7 +26,7 @@
   {
     "title": "Anterin",
     "description": "Integration platform for all departments and drivers at KC Palangka Raya. The application was created to address the challenge of frequent driver requests occurring simultaneously without considering priority levels. With this application, the HR department, as the driver manager, can easily monitor driver requests from various departments and determine the priority level of these requests. The application is built using Dart programming language and Flutter framework for the front end, and PHP and CodeIgniter 3 REST API for the backend.",
-    "type": "Innovation Project",
+    "type": "Mobile App",
     "imageUrl": "/images/Anterin.png",
     "githubUrl": "https://github.com/mdsetiawan11/anterin_kc_pky",
     "demoUrl": "",
@@ -20,7 +35,7 @@
   {
     "title": "Rockstar Mobile",
     "description": "Monitoring and evaluation platform for performance targets of Primary Health Facilities in the BPJS Kesehatan KC Palangka Raya work area. The application is built using Dart programming language and Flutter framework for the front end, and PHP and CodeIgniter 3 REST API for the backend.",
-    "type": "Innovation Project",
+    "type": "Mobile App",
     "imageUrl": "/images/Rockstar Mobile.png",
     "githubUrl": "https://github.com/mdsetiawan11/rockstar",
     "demoUrl": "",
@@ -29,7 +44,7 @@
   {
     "title": "Rockstar",
     "description": "Monitoring and evaluation platform for the performance targets of Primary Health Facilities in the BPJS Kesehatan KC Palangka Raya work area. The application is built using PHP programming language and CodeIgniter 3 framework.",
-    "type": "Innovation Project",
+    "type": "Web App",
     "imageUrl": "/images/Rockstar.png",
     "githubUrl": "",
     "demoUrl": "",
@@ -38,7 +53,7 @@
   {
     "title": "Alarm UHC Desa Mobile",
     "description": "Enhancement of the ease and flexibility of the Village UHC Alarm Application. The application is built using Dart programming language and Flutter framework for the front end, and PHP and CodeIgniter 3 REST API for the backend.",
-    "type": "Innovation Project",
+    "type": "Mobile App",
     "imageUrl": "/images/Alarm UHC Desa Mobile.png",
     "githubUrl": "https://github.com/mdsetiawan11/alarm_uhc_desa",
     "demoUrl": "",
@@ -47,7 +62,7 @@
   {
     "title": "Lakasi",
     "description": "A platform used by BPJS Kesehatan KC Palangka Raya representatives for managing and reporting gratification cases. The application is built using PHP programming language and the CodeIgniter 3 framework. With this application, BPJS Kesehatan KC Palangka Raya received the 1st place award for the National Gratification Control Unit at the BPJS Kesehatan National Level in 2022.",
-    "type": "Innovation Project",
+    "type": "Web App",
     "imageUrl": "/images/Lakasi.png",
     "githubUrl": "",
     "demoUrl": "",
@@ -56,7 +71,7 @@
   {
     "title": "Alarm UHC Desa",
     "description": "Integration Platform between Villages, the Social Service Office, the Health Office, and BPJS Kesehatan for managing resident data registered by the Katingan Regency Government. It provides a Dashboard for Universal Health Coverage up to the village level. The application is built using PHP programming language and the CodeIgniter 3 framework. This application innovation received the 2nd place award at the Innovation Festival of the BPJS Kesehatan Kaltimtengseltara Regional Deputy Level in 2022 and the 1st place award at the National Innovation Festival of BPJS Kesehatan in 2022.",
-    "type": "Innovation Project",
+    "type": "Web App",
     "imageUrl": "/images/Alarm UHC Desa.png",
     "githubUrl": "",
     "demoUrl": "",
@@ -65,7 +80,7 @@
   {
     "title": "Udah Bayar",
     "description": "Integration Platform between Regional Devices of Katingan Regency and BPJS Kesehatan for managing data and reporting proof of payment for Non-Permanent Non-PNS (PPNPN). The application is built using PHP programming language and the CodeIgniter 3 framework. This application innovation received the 3rd place award at the Innovation Festival of the BPJS Kesehatan Kaltimtengseltara Regional Deputy Level in 2021.",
-    "type": "Innovation Project",
+    "type": "Web App",
     "imageUrl": "/images/Udah Bayar.png",
     "githubUrl": "",
     "demoUrl": "",
