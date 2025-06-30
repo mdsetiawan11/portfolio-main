@@ -1,0 +1,26 @@
+🧾 How to Delete Your Account & Data from SpendWise
+
+SpendWise, developed by Fatih Dev, respects your privacy. If you wish to permanently delete your account and data, please follow the instructions below:
+
+🔐 Steps to Delete Your Account:
+1. Open the SpendWise app.
+2. Go to the Profile page.
+3. Tap the “Delete Profile” button at the bottom of the screen.
+4. Confirm your decision when prompted.
+5. Your account and all related data will be permanently deleted.
+
+📦 Data That Will Be Deleted:
+When you request account deletion, the following data will be permanently removed:
+- Personal information (name, email)
+- Expense and income records
+- Profile photo (if provided)
+- User ID associated with Firebase Authentication
+
+🗃️ Data Retention Policy:
+- Upon request, your account will be flagged for deletion and will no longer be accessible to you.
+- We do not retain any copy of your data.
+
+ℹ️ Additional Information:
+- Deletion requests are final and cannot be undone.
+- You are welcome to create a new account anytime after deletion.
+- If you need assistance, please contact us at fzpromds@gmail.com.
